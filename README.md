@@ -14,4 +14,5 @@ This version of the tool has been testesd with a sonoff mini, but should work wi
 
 # REFERENCES:
 Official tool: https://github.com/itead/Sonoff_Devices_DIY_Tools
+
 Sonoff API manual: http://developers.sonoff.tech/sonoff-diy-mode-api-protocol.html
