@@ -8,7 +8,7 @@ Put your device into DIY mode (refer to http://developers.sonoff.tech/sonoff-diy
 Once you have your device in DIY mode start the program, it should detect your device automatically, if not your wifi might not support mDNS service, if that is the case you can't use this program.
 If the tool is detecting your device and you want to change it's firmware, you have to click the firmware flash button, a dialogue box should appear, enter the new firmware, select the device you want to change the firmware and click okay, the process should start.
 
-# PD
+# DISCLAIMER
 
 This version of the tool has been testesd with a sonoff mini, but should work with the sonoff basic and the sonoff RF with last sonoff.bin versions.
 
