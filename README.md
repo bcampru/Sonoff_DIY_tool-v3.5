@@ -17,3 +17,6 @@ This version of the tool has been testesd with a sonoff mini, but should work wi
 Official tool: https://github.com/itead/Sonoff_Devices_DIY_Tools
 
 Sonoff API manual: http://developers.sonoff.tech/sonoff-diy-mode-api-protocol.html
+
+
+<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=59LH5AHNQ8XZW" rel="nofollow"><img src="https://camo.githubusercontent.com/2bfa6102e99ff9a137185897b0a566aa0977a4790348c462e6951829e787af8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d50617950616c2d677265656e2e737667" alt="Donate" data-canonical-src="https://img.shields.io/badge/Donate-PayPal-green.svg" style="max-width:100%;"></a></p>
